@@ -5,8 +5,8 @@
     세부 기능 :  캘린더 제목 - (타입)내용_담당자
                캘린더 시간 - 시작일 기준 all day 처리
                캘린더 설명 - 시작일~마지막일
-						  No.숫자
-													  made by PKD
+			     No.숫자
+							 made by PKD
 */
 
 function SynchronizationCal() {
